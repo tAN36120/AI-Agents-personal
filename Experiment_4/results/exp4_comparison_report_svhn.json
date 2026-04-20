@@ -1,0 +1,133 @@
+{
+  "baseline_threshold": 0,
+  "datasets": {
+    "SVHN": {
+      "threshold": 1,
+      "dataset": "SVHN",
+      "forget": 0.06883835279655809,
+      "retain": 0.60698,
+      "delta_forget_vs_baseline": 0.0007682851874615954,
+      "delta_retain_vs_baseline": 0.0007199999999999429,
+      "retain_constraint": true
+    }
+  },
+  "rows": [
+    {
+      "threshold": -1,
+      "dataset": "SVHN",
+      "forget": 0.07244929317762754,
+      "retain": 0.60926,
+      "delta_forget_vs_baseline": 0.004379225568531042,
+      "delta_retain_vs_baseline": 0.0030000000000000027,
+      "retain_constraint": true
+    },
+    {
+      "threshold": 0,
+      "dataset": "SVHN",
+      "forget": 0.0680700676090965,
+      "retain": 0.60626,
+      "delta_forget_vs_baseline": 0.0,
+      "delta_retain_vs_baseline": 0.0,
+      "retain_constraint": true
+    },
+    {
+      "threshold": 1,
+      "dataset": "SVHN",
+      "forget": 0.06883835279655809,
+      "retain": 0.60698,
+      "delta_forget_vs_baseline": 0.0007682851874615954,
+      "delta_retain_vs_baseline": 0.0007199999999999429,
+      "retain_constraint": true
+    },
+    {
+      "threshold": 2,
+      "dataset": "SVHN",
+      "forget": 0.0693761524277812,
+      "retain": 0.60574,
+      "delta_forget_vs_baseline": 0.0013060848186847024,
+      "delta_retain_vs_baseline": -0.000520000000000076,
+      "retain_constraint": true
+    },
+    {
+      "threshold": 3,
+      "dataset": "SVHN",
+      "forget": 0.07406269207129687,
+      "retain": 0.60276,
+      "delta_forget_vs_baseline": 0.005992624462200377,
+      "delta_retain_vs_baseline": -0.0035000000000000586,
+      "retain_constraint": true
+    },
+    {
+      "threshold": 4,
+      "dataset": "SVHN",
+      "forget": 0.07928703134603565,
+      "retain": 0.6048,
+      "delta_forget_vs_baseline": 0.011216963736939159,
+      "delta_retain_vs_baseline": -0.0014600000000000168,
+      "retain_constraint": true
+    },
+    {
+      "threshold": 5,
+      "dataset": "SVHN",
+      "forget": 0.08474185617701291,
+      "retain": 0.60522,
+      "delta_forget_vs_baseline": 0.016671788567916415,
+      "delta_retain_vs_baseline": -0.001040000000000041,
+      "retain_constraint": true
+    },
+    {
+      "threshold": 6,
+      "dataset": "SVHN",
+      "forget": 0.0934618930547019,
+      "retain": 0.61516,
+      "delta_forget_vs_baseline": 0.025391825445605407,
+      "delta_retain_vs_baseline": 0.008900000000000019,
+      "retain_constraint": true
+    },
+    {
+      "threshold": 7,
+      "dataset": "SVHN",
+      "forget": 0.1018362015980332,
+      "retain": 0.62058,
+      "delta_forget_vs_baseline": 0.0337661339889367,
+      "delta_retain_vs_baseline": 0.01432,
+      "retain_constraint": true
+    },
+    {
+      "threshold": 8,
+      "dataset": "SVHN",
+      "forget": 0.11105562384757221,
+      "retain": 0.62264,
+      "delta_forget_vs_baseline": 0.04298555623847572,
+      "delta_retain_vs_baseline": 0.01637999999999995,
+      "retain_constraint": true
+    },
+    {
+      "threshold": 9,
+      "dataset": "SVHN",
+      "forget": 0.11846957590657652,
+      "retain": 0.62354,
+      "delta_forget_vs_baseline": 0.05039950829748002,
+      "delta_retain_vs_baseline": 0.017279999999999962,
+      "retain_constraint": true
+    },
+    {
+      "threshold": 10,
+      "dataset": "SVHN",
+      "forget": 0.1372157344806392,
+      "retain": 0.62874,
+      "delta_forget_vs_baseline": 0.06914566687154271,
+      "delta_retain_vs_baseline": 0.022479999999999944,
+      "retain_constraint": true
+    },
+    {
+      "threshold": 11,
+      "dataset": "SVHN",
+      "forget": 0.21231561155500922,
+      "retain": 0.63478,
+      "delta_forget_vs_baseline": 0.1442455439459127,
+      "delta_retain_vs_baseline": 0.02851999999999999,
+      "retain_constraint": true
+    }
+  ]
+}

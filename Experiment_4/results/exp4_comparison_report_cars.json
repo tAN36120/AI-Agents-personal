@@ -1,0 +1,133 @@
+{
+  "baseline_threshold": 0,
+  "datasets": {
+    "Cars": {
+      "threshold": 3,
+      "dataset": "Cars",
+      "forget": 0.2576793931103097,
+      "retain": 0.60132,
+      "delta_forget_vs_baseline": -0.020519835841313228,
+      "delta_retain_vs_baseline": -0.0042600000000000415,
+      "retain_constraint": true
+    }
+  },
+  "rows": [
+    {
+      "threshold": -1,
+      "dataset": "Cars",
+      "forget": 0.2772043278199229,
+      "retain": 0.60358,
+      "delta_forget_vs_baseline": -0.0009949011317000322,
+      "delta_retain_vs_baseline": -0.0020000000000000018,
+      "retain_constraint": true
+    },
+    {
+      "threshold": 0,
+      "dataset": "Cars",
+      "forget": 0.2781992289516229,
+      "retain": 0.60558,
+      "delta_forget_vs_baseline": 0.0,
+      "delta_retain_vs_baseline": 0.0,
+      "retain_constraint": true
+    },
+    {
+      "threshold": 1,
+      "dataset": "Cars",
+      "forget": 0.279691580649173,
+      "retain": 0.6053,
+      "delta_forget_vs_baseline": 0.0014923516975500761,
+      "delta_retain_vs_baseline": -0.000280000000000058,
+      "retain_constraint": true
+    },
+    {
+      "threshold": 2,
+      "dataset": "Cars",
+      "forget": 0.2675040417858475,
+      "retain": 0.60322,
+      "delta_forget_vs_baseline": -0.010695187165775388,
+      "delta_retain_vs_baseline": -0.0023600000000000287,
+      "retain_constraint": true
+    },
+    {
+      "threshold": 3,
+      "dataset": "Cars",
+      "forget": 0.2576793931103097,
+      "retain": 0.60132,
+      "delta_forget_vs_baseline": -0.020519835841313228,
+      "delta_retain_vs_baseline": -0.0042600000000000415,
+      "retain_constraint": true
+    },
+    {
+      "threshold": 4,
+      "dataset": "Cars",
+      "forget": 0.26588732744683496,
+      "retain": 0.60422,
+      "delta_forget_vs_baseline": -0.012311901504787948,
+      "delta_retain_vs_baseline": -0.0013600000000000279,
+      "retain_constraint": true
+    },
+    {
+      "threshold": 5,
+      "dataset": "Cars",
+      "forget": 0.2903867678149484,
+      "retain": 0.61072,
+      "delta_forget_vs_baseline": 0.012187538863325464,
+      "delta_retain_vs_baseline": 0.005140000000000033,
+      "retain_constraint": true
+    },
+    {
+      "threshold": 6,
+      "dataset": "Cars",
+      "forget": 0.31650292252207435,
+      "retain": 0.61558,
+      "delta_forget_vs_baseline": 0.038303693570451436,
+      "delta_retain_vs_baseline": 0.010000000000000009,
+      "retain_constraint": true
+    },
+    {
+      "threshold": 7,
+      "dataset": "Cars",
+      "forget": 0.34510633005845043,
+      "retain": 0.61776,
+      "delta_forget_vs_baseline": 0.06690710110682752,
+      "delta_retain_vs_baseline": 0.012179999999999969,
+      "retain_constraint": true
+    },
+    {
+      "threshold": 8,
+      "dataset": "Cars",
+      "forget": 0.3786842432533267,
+      "retain": 0.62026,
+      "delta_forget_vs_baseline": 0.10048501430170381,
+      "delta_retain_vs_baseline": 0.014680000000000026,
+      "retain_constraint": true
+    },
+    {
+      "threshold": 9,
+      "dataset": "Cars",
+      "forget": 0.40679020022385276,
+      "retain": 0.6227,
+      "delta_forget_vs_baseline": 0.12859097127222985,
+      "delta_retain_vs_baseline": 0.017120000000000024,
+      "retain_constraint": true
+    },
+    {
+      "threshold": 10,
+      "dataset": "Cars",
+      "forget": 0.45951996020395475,
+      "retain": 0.62696,
+      "delta_forget_vs_baseline": 0.18132073125233183,
+      "delta_retain_vs_baseline": 0.021379999999999955,
+      "retain_constraint": true
+    },
+    {
+      "threshold": 11,
+      "dataset": "Cars",
+      "forget": 0.5328939186668324,
+      "retain": 0.63414,
+      "delta_forget_vs_baseline": 0.25469468971520953,
+      "delta_retain_vs_baseline": 0.02856000000000003,
+      "retain_constraint": true
+    }
+  ]
+}
